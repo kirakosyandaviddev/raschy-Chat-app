@@ -1,8 +1,7 @@
 import React from 'react'
 
 import { AppLayout } from '../layout/AppLayout';
-import { ChatRoom, RoomUsers } from '../components';
-import { baseTheme } from '../theme/baseTheme';
+import { ChatRoom } from '../components';
 import {
     RootContainer,
 } from './root.style';
